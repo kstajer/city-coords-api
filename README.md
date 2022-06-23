@@ -4,7 +4,7 @@ API which returns coordinates of the given city
 
 ### Info
 
-This API was made for educational purposes, so I could get familiar with HTML methods. Its database contains only few hundreds of Polish cities.
+This API was made for educational purposes, so I could get familiar with HTTP methods. Its database contains only few hundreds of Polish cities.
 
 ### Methods
 
