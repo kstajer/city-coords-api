@@ -20,3 +20,10 @@ Returns a list of all cities in the database with their coordinates.
 
 ### Screenshots
 
+![img1](img/mainpage.png)
+
+
+![img2](img/documentation.png)
+
+
+![img3](img/docdetails.png)
